@@ -1,0 +1,9 @@
+{
+  "name": "ARGO RACING",
+  "short_name": "ARGO RACING",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b111a",
+  "theme_color": "#101722",
+  "lang": "ja"
+}
